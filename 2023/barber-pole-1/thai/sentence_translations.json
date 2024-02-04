@@ -1,7 +1,7 @@
 [
  {
   "input": "The setup here starts with a cylinder full of sugar water, basically, and we're about to shine some white light into it, but before it gets there, it passes through a linearly polarizing filter. ",
-  "translatedText": "จากเซ็ตของอุปกรณ์ที่เห็นอยู่นี้เป็นกระบอกไสที่บรรจุน้ำตาลละลายน้ำไว้ และเรากำลังจะฉายแสงสีขาวใส่มัน โดยผ่านตัวกรองแสงแบบ linearly polarizing",
+  "translatedText": "จากเซ็ตของอุปกรณ์ที่เห็นอยู่นี้เป็นกระบอกใสที่บรรจุน้ำตาลละลายน้ำไว้ และเรากำลังจะฉายแสงสีขาวใส่มัน โดยผ่านตัวกรองแสงแบบ linearly polarizing",
   "model": "nmt",
   "time_range": [
    0.0,
@@ -271,7 +271,7 @@
  },
  {
   "input": "And what I love about this setup is that if you want to really understand what you're looking at, with that deep to your bones satisfying sense of what's going on, it requires having very solid intuitions for a number of different fundamental concepts about light, like polarization, how scattering works, and how an index of refraction works. ",
-  "translatedText": "และสิ่งที่ผมชอบมากในอุปกรณ์เซ็ตนี้ คือถ้าคุณอยากจะเข้าใจสิ่งที่คุณกำลังมองอยู่อย่างลึกซึ้งชัดเจน ว่ามันกำลังเกิดอะไรขึ้น คุณต้องมีความเข้าใจแนวคิดพื้นฐานต่าง ๆ เกี่ยวกับแสง เช่น การ polarize ของแสง การกระจายของแสง และเข้าใจดัชนีการหักเหของแสงด้วย",
+  "translatedText": "และสิ่งที่ผมชอบมากในอุปกรณ์เซ็ตนี้ คือถ้าคุณอยากจะเข้าใจสิ่งที่คุณกำลังมองอยู่อย่างลึกซึ้งชัดเจน ว่ามันกำลังเกิดอะไรขึ้น คุณต้องมีความเข้าใจแนวคิดพื้นฐานต่าง ๆ เกี่ยวกับแสง เช่น การ polarize ของแสง การกระจายของแสง และดัชนีการหักเหของแสงด้วย",
   "model": "nmt",
   "time_range": [
    162.32,
@@ -280,7 +280,7 @@
  },
  {
   "input": "To kick things off, let me show you the overall structure for the explanation of what's going on here. ",
-  "translatedText": "",
+  "translatedText": "ก่อนอื่น ผมจะขอพูดถึงโครงสร้างโดยรวมของคำอธิบายสำหรับสิ่งที่เกิดขึ้นก่อน",
   "model": "nmt",
   "time_range": [
    181.8,
@@ -289,7 +289,7 @@
  },
  {
   "input": "And along the way, record various questions that we still need to answer. ",
-  "translatedText": "",
+  "translatedText": "และระหว่างนั้นก็จะเก็บคำถามต่าง ๆ ที่จะต้องการหาคำตอบกันต่อ",
   "model": "nmt",
   "time_range": [
    186.6,
@@ -298,7 +298,7 @@
  },
  {
   "input": "A basic premise to the whole thing is to think about polarized light as a propagating wave which is wiggling in just one direction. ",
-  "translatedText": "",
+  "translatedText": "พื้นฐานของทั้งหมดนี้เริ่มจากการมองว่าแสงที่ผ่านการ polarize นั้นเป็นการถ่ายทอดคลื่นแสงที่จะแกว่งเป็นทิศทางเดียว",
   "model": "nmt",
   "time_range": [
    191.02,
@@ -307,7 +307,7 @@
  },
  {
   "input": "And I suppose question number zero is for us to be clear about what exactly is wiggling. ",
-  "translatedText": "",
+  "translatedText": "และคำถามแรกสุดของเราในตอนนี้คือ อะไรกันแน่ที่เกิดการแกว่งในคลื่นแสง",
   "model": "nmt",
   "time_range": [
    197.7,
@@ -316,7 +316,7 @@
  },
  {
   "input": "Postponing that for the moment, we'll just say if we think about it as propagating in one direction, say along an x-axis, the wiggling happens perpendicular to that, say in the z direction. ",
-  "translatedText": "",
+  "translatedText": "แต่เราจะเก็บคำถามนี้ไว้ก่อน ตอนนี้ให้เข้าใจว่ามันคือคลื่นที่เคลื่อนที่ไปทางหนึ่ง เช่น ตามแนวเกน X และการแกว่งนั้นเกิดขึ้นในทิศตั้งฉาก คือตามแนวแกน Z",
   "model": "nmt",
   "time_range": [
    203.42,
@@ -325,7 +325,7 @@
  },
  {
   "input": "What's going on when it passes through this tube of sugar water is that that wiggling direction gets twisted. ",
-  "translatedText": "",
+  "translatedText": "สิ่งที่เกิดขึ้นเมื่อมันเคลื่อนที่ผ่านกระบอกน้ำตาลละลาย คือทิศทางของการแกว่งนั้นถูกบิดเป็นเกลียว",
   "model": "nmt",
   "time_range": [
    213.7,
@@ -334,7 +334,7 @@
  },
  {
   "input": "And so the first key question is why? ",
-  "translatedText": "",
+  "translatedText": "ซึ่งคำถามแรกของเราคือ เพราะอะไร?",
   "model": "nmt",
   "time_range": [
    219.78,
@@ -343,7 +343,7 @@
  },
  {
   "input": "What is it about interaction with sugar that causes this twist? ",
-  "translatedText": "การมีปฏิสัมพันธ์กับน้ำตาลที่ทำให้เกิดการบิดเบี้ยวนี้เป็นอย่างไร? ",
+  "translatedText": "ปฎิกิริยาอะไรในน้ำตาลที่ทำให้มันบิดไปแบบนั้น?",
   "model": "nmt",
   "time_range": [
    222.3,
@@ -352,7 +352,7 @@
  },
  {
   "input": "And just so that it's crystal clear what I mean by twisting, if you focus your attention on a single slice perpendicular to the axis of the cylinder and draw a line indicating how the light is wiggling on that slice, then if you were to move that slice down the cylinder, the relevant wiggling direction slowly turns about the axis of the cylinder. ",
-  "translatedText": "",
+  "translatedText": "เพื่อให้ชัดเจนเกี่ยวกับการ \"บิดเป็นเกลียว\" นั้น ถ้าเรามองในแผ่นภาคตัดตามแนวขวางกับกระบอก แล้ววาดเส้นตรงแสดงการแกว่งของคลื่นบนแผ่นนั้น แล้วเลื่อนแผ่นนั้นตามแนวยาวของกระบอก ทิศทางการแกว่งจะค่อย ๆ หมุนไปรอบแกนกลางของกระบอก",
   "model": "nmt",
   "time_range": [
    225.08,
@@ -361,7 +361,7 @@
  },
  {
   "input": "Critically, the rate at which it's getting twisted depends on the frequency of the light. ",
-  "translatedText": "",
+  "translatedText": "ส่วนที่สำคัญคือ อัตราการหมุนบิดนั้นจะแปรผันตามความถี่ของคลื่นแสง",
   "model": "nmt",
   "time_range": [
    245.86,
@@ -370,7 +370,7 @@
  },
  {
   "input": "Higher frequency light, say violet, actually gets twisted more quickly than low frequency light, like red. ",
-  "translatedText": "",
+  "translatedText": "แสงที่ความถี่สูงกว่าอย่างสีม่วง จะถูกบิดไปเร็วกว่าแสงที่ความถี่ต่ำกว่า เช่นสีแดง",
   "model": "nmt",
   "time_range": [
    250.72,
@@ -379,7 +379,7 @@
  },
  {
   "input": "So the second key question we need to answer is why would that twisting rate depend on the frequency? ",
-  "translatedText": "",
+  "translatedText": "คำถามถัดไปที่ต้องหาคำตอบคือ เพราะอะไรอัตราการหมุนจึงเปลี่ยนแปลงไปตามความถี่?",
   "model": "nmt",
   "time_range": [
    258.3,
@@ -388,7 +388,7 @@
  },
  {
   "input": "Whatever explanation we come to for why the twisting happens in the first place, it should offer some intuition for where the dependence on frequency would come from. ",
-  "translatedText": "",
+  "translatedText": "ถ้าเราหาสาเหตุที่ทำให้เกิดการบิดหมุนได้ น่าจะทำให้เราเข้าใจได้ว่าอะไรทำให้การหมุนต่างกันในแต่ละความถี่",
   "model": "nmt",
   "time_range": [
    264.24,
@@ -397,7 +397,7 @@
  },
  {
   "input": "Let's take a moment to think about what it means that different colors of light are getting twisted at different rates. ",
-  "translatedText": "",
+  "translatedText": "ลองมาคิดกันดูก่อนว่าอัคราการหมุนที่ต่างกันของแต่ละสีนัั้นหมายถึงอะไร",
   "model": "nmt",
   "time_range": [
    273.66,
@@ -406,7 +406,7 @@
  },
  {
   "input": "In the demo we're shining in white light, and white light is not a clean pure sine wave, it's something more complicated. ",
-  "translatedText": "และเพื่อให้ชัดเจนว่าฉันหมายถึงอะไรโดยการบิด ถ้าคุณเพ่งความสนใจไปที่ชิ้นเดียวที่ตั้งฉากกับแกนของทรงกระบอก และลากเส้นเพื่อแสดงว่าแสงแกว่งไปมาบนชิ้นนั้นอย่างไร แล้วถ้าคุณจะขยับชิ้นนั้น หั่นกระบอกสูบลง ทิศทางการกระดิกที่เกี่ยวข้องจะค่อยๆ หมุนไปรอบแกนของกระบอกสูบ อัตราการบิดเบี้ยวนั้นขึ้นอยู่กับความถี่ของแสง แสงความถี่สูง เช่น สีม่วง จริงๆ แล้วบิดเบี้ยวเร็วกว่าแสงความถี่ต่ำ เช่น สีแดง คำถามสำคัญข้อที่สองที่เราต้องตอบคือเหตุใดอัตราการบิดจึงขึ้นอยู่กับความถี่ ไม่ว่าเราจะอธิบายว่าทำไมการบิดเบี้ยวจึงเกิดขึ้นตั้งแต่แรก ควรให้สัญชาตญาณว่าการพึ่งพาความถี่จะมาจากไหน ลองใช้เวลาสักครู่เพื่อพิจารณาว่าแสงสีต่างๆ มีการบิดเบี้ยวในอัตราที่ต่างกันหมายความว่าอย่างไร ในการสาธิต เรากำลังฉายแสงสีขาว และแสงสีขาวไม่ใช่คลื่นไซน์บริสุทธิ์ที่สะอาด แต่เป็นสิ่งที่ซับซ้อนกว่า และคุณมักจะคิดว่ามันเป็นการรวมกันของคลื่นไซน์บริสุทธิ์หลายๆ คลื่น แต่ละคลื่นสอดคล้องกับสีใดสีหนึ่งในรุ้ง สำหรับแอนิเมชั่นนี้ ฉันจะนำเสนอทิศทางการกระดิกของแต่ละความถี่ตามแผนผังโดยใช้เส้นตรง แนวคิดหลักก็คือ ขณะที่คลื่นต่างๆ เหล่านี้แพร่กระจายไปตามท่อ โดยมีความถี่บริสุทธิ์ที่แตกต่างกัน บิดตัวในอัตราที่ต่างกัน แสงสีม่วงบิดตัวเร็วที่สุด และแสงสีแดงบิดตัวช้าที่สุด จากนั้นทิศทางโพลาไรเซชันของสีบริสุทธิ์แต่ละสีก็จะได้ แยกออก ตัวอย่างเช่น เมื่อคุณถึงปลายท่อ หลอดทั้งหมดจะมีทิศทางการกระดิกที่แตกต่างกันออกไป แต่สิ่งหนึ่งที่สำคัญที่ต้องเข้าใจก็คือ นี่ยังคงเป็นแสงสีขาว หากให้มองที่ปลายหลอดแล้วมองไปทางโคมก็จะไม่มีสีแต่อย่างใด เพราะถึงแม้ทิศทางการกระดิกจะต่างกันไป แต่ก็ยังมีปริมาณแต่ละสีเท่าเดิม จุดเริ่มต้น. ",
+  "translatedText": "ในตัวอย่างของเราที่เราฉายแสงสีขาว ซึ่งจริง ๆ แล้วแสงสีขาวนั้นไม่ได้เป็นคลื่นแบบ pure sine wave แต่มันเป็นอะไรที่ซับซ้อน",
   "model": "nmt",
   "time_range": [
    278.84,
@@ -415,7 +415,7 @@
  },
  {
   "input": "And you typically think about it as a combination of many different pure sine waves, each one corresponding to one of the colors in the rainbow. ",
-  "translatedText": "",
+  "translatedText": "โดยทั่วไปเราสามารถคิดได้ว่าแสงสีขาวคือผลจากการรวมของคลื่น pure sine wave หลาย ๆ คลื่น โดยแต่ละคลื่นจะเป็นคลื่นของสีในสายรุ้ง",
   "model": "nmt",
   "time_range": [
    285.86,
@@ -424,7 +424,7 @@
  },
  {
   "input": "For this animation I will schematically represent the wiggling direction for each pure frequency, just with a line. ",
-  "translatedText": "",
+  "translatedText": "ในที่นี้จะขอแสดงทิศทางการแกว่งของคลื่นแสงแต่ละความถี่โดยใช้เส้่นตรงตามแนวตัดขวาง",
   "model": "nmt",
   "time_range": [
    293.38,
@@ -433,7 +433,7 @@
  },
  {
   "input": "So the key idea is that as all of those different waves propagate down the tube, with different pure frequencies twisting at different rates, purple light twisting the fastest and red light twisting the slowest, then the polarization directions for each one of those pure colors get separated out. ",
-  "translatedText": "",
+  "translatedText": "และเมื่อมันเคลื่อนที่ไปตามแนวของกระบอก แต่ละคลื่นความถี่ของสีจะถูกบิดหมุนไปในอัตรที่ต่างกัน โดยแสงสีม่วงจะหมุนเร็วที่สุด ส่วนสีแดงจะหมุนช้าที่สุด ทำให้ทิศทางการ polarize ของแต่ละสีนั้นถูกแยกออกจากกัน",
   "model": "nmt",
   "time_range": [
    300.28,
@@ -442,7 +442,7 @@
  },
  {
   "input": "For example, by the time you reach the end of the tube, they all have their own distinct wiggling directions. ",
-  "translatedText": "",
+  "translatedText": "เมื่อถึงปลายของกระบอกตัวอย่างนี้แล้ว แต่ละสีก็จะมีทิศทางการแกว่งเป็นของตัวเองโดยไม่ทับซ้อนกัน",
   "model": "nmt",
   "time_range": [
    317.2,
@@ -451,7 +451,7 @@
  },
  {
   "input": "But one thing that's important to understand is that this is still white light. ",
-  "translatedText": "",
+  "translatedText": "แต่สิ่งสำคัญที่ต้องเข้าใจคือ แสงนี้ยังคงเป็นแสงสีขาว",
   "model": "nmt",
   "time_range": [
    322.62,
@@ -460,7 +460,7 @@
  },
  {
   "input": "If you were to put your eye at the end of the tube and look towards the lamp, it wouldn't look colored in any way, because even if the wiggling directions are all different, there's still the same amount of each color as there was at the start. ",
-  "translatedText": "",
+  "translatedText": "ถ้าเรามองจากปลายอีกด้านของกระบอกไปยังหลอดไฟ เราก็จะมองไม่เห็นสีต่าง ๆ เพราะแม้มันจะแกว่งไปคนละทิศทาง แต่สุดท้ายแต่ละสีก็ยังมีปริมาณเท่า ๆ กับตอนที่เริ่มเข้าสู่กระบอก",
   "model": "nmt",
   "time_range": [
    326.42,
@@ -469,7 +469,7 @@
  },
  {
   "input": "In order to see any evidence of this separation, one thing you could do is pass it all through a second linear polarizing filter, say in the vertical direction. ",
-  "translatedText": "",
+  "translatedText": "และเพื่อแสดงหลักฐานที่แต่ละสีนั้นแยกกันจริง สิ่งหนึ่งที่ทำได้คือการมองลำแสงนั้นผ่านแผ่นกรอง linearly polarizing อีกชิ้นหนึ่ง สมมติว่าเราวางในแนวตั้ง",
   "model": "nmt",
   "time_range": [
    338.52,
@@ -478,7 +478,7 @@
  },
  {
   "input": "The effect that has is that the amount of light of a given frequency passing through is equal to the component of its polarization direction that lines up with the filter. ",
-  "translatedText": "",
+  "translatedText": "ผลคือ ปริมาณของแสงแต่ละสีที่ผ่านแผ่นกรองออกมาได้ จะขึ้นอยู่กับว่าทิศทางของมันในตอนนั้นตรงกับทิศทางของแผ่นกรองมากแค่ไหน",
   "model": "nmt",
   "time_range": [
    347.84,
@@ -487,7 +487,7 @@
  },
  {
   "input": "So colors which happen to align very closely with that filter pass through almost completely, whereas colors which end up more perpendicular to the filter pass through only very weakly. ",
-  "translatedText": "",
+  "translatedText": "สีที่บังเอิญหมุนมาตรงกับแผ่นกรองมากที่สุด จะผ่านออกมาได้เกือบหมด ส่วนสีที่ออกมาตั้งฉากกับแผ่นกรอง จะแทบผ่านออกมาไม่ได้",
   "model": "nmt",
   "time_range": [
    357.9,
@@ -496,7 +496,7 @@
  },
  {
   "input": "So the light coming out the other end of this filter is some imbalanced combination of all of the pure frequencies, which is why what we see coming out the other end is no longer white, but some other color. ",
-  "translatedText": "เพื่อที่จะเห็นหลักฐานของการแยกนี้ สิ่งหนึ่งที่คุณสามารถทำได้คือส่งผ่านตัวกรองโพลาไรซ์เชิงเส้นตัวที่สอง เช่น ในทิศทางแนวตั้ง ผลกระทบที่เกิดขึ้นคือปริมาณแสงของความถี่ที่กำหนดที่ผ่านจะเท่ากับส่วนประกอบของทิศทางโพลาไรเซชันที่เรียงตัวกับตัวกรอง  ดังนั้นสีซึ่งบังเอิญวางชิดกันมากกับฟิลเตอร์นั้นจึงผ่านไปได้เกือบทั้งหมด ในขณะที่สีซึ่งท้ายที่สุดตั้งฉากกับฟิลเตอร์มากกว่าจะผ่านไปได้เพียงเล็กน้อยเท่านั้น ดังนั้นแสงที่ออกมาจากปลายอีกด้านของฟิลเตอร์นี้ คือการรวมกันที่ไม่สมดุลของความถี่บริสุทธิ์ทั้งหมด ซึ่งเป็นเหตุว่าทำไมสิ่งที่เราเห็นออกมาจากปลายอีกด้านหนึ่งจึงไม่ใช่สีขาวอีกต่อไป แต่เป็นสีอื่น และสังเกตว่าถ้าเราหมุนการตั้งค่าทั้งหมด เช่น โดยการบิดฟิลเตอร์โพลาไรซ์เริ่มต้น จากนั้นส่วนประกอบของความถี่บริสุทธิ์แต่ละความถี่ที่เกิดขึ้นในแนวตั้งจะเปลี่ยน ส่งผลให้เกิดความสมดุลที่แตกต่างกันของสีเหล่านั้นทั้งหมด ซึ่งเป็นเหตุผลว่าทำไมการหมุนฟิลเตอร์เริ่มต้นจึงเปลี่ยนไป สีที่คุณเห็นออกมาอีกด้านหนึ่ง และนี่คือสิ่งที่คุณสามารถทำได้ที่บ้าน คุณไม่จำเป็นต้องมีการตั้งค่าที่หรูหรามากนัก เริ่มต้นด้วยการสร้างส่วนผสมของน้ำที่มีน้ำตาลค่อนข้างหนาแน่น จากนั้นคุณจะต้องมีฟิลเตอร์โพลาไรซ์เพื่อที่คุณจะได้ส่งแสงผ่านฟิลเตอร์ตัวใดตัวหนึ่งก่อน จากนั้นจึงผ่านน้ำที่มีน้ำตาล และจากนั้นจึงผ่านฟิลเตอร์ตัวที่สอง . ",
+  "translatedText": "ดังนั้นสีที่มองเห็นผ่านแผ่นกรองนี้ จะเป็นผลจากการรวมไม่สมดุลกันของแสงแต่ละสี นั่นทำให้มันไม่ใช่แสงสีขาวอีกต่อไป แต่จะเป็นแสงที่มีสีออกมาแทน",
   "model": "nmt",
   "time_range": [
    370.48,
@@ -505,7 +505,7 @@
  },
  {
   "input": "And notice if we rotate the whole setup, say by twisting the initial polarizing filter, then that changes the components of each pure frequency that happen to be vertical, resulting in a different balance of all those colors, which is why rotating the initial filter changes the color you see coming out the other end. ",
-  "translatedText": "",
+  "translatedText": "และถ้าเราทำการหมุนสีทั้งกระบอก โดยการหมุนแผ่นกรองแผ่นแรก จะทำให้แสงส่วนที่ตั้งตรงกับแผ่นกรองที่สองเปลี่ยนไป ส่งผลให้การรวมแสงที่แผ่นกรองที่สองเปลี่ยนไปด้วย นั่นทำให้การหมุนแผ่นกรองแผ่นแรก ส่งผลต่อสีที่มองเห็นจากส่วนปลายของกระบอก",
   "model": "nmt",
   "time_range": [
    381.88,
@@ -514,7 +514,7 @@
  },
  {
   "input": "And this is something you can do at home, by the way. ",
-  "translatedText": "",
+  "translatedText": "อันที่จริงคุณเองก็สามารถทดลองแบบนี้เองที่บ้านได้",
   "model": "nmt",
   "time_range": [
    399.9,
@@ -523,7 +523,7 @@
  },
  {
   "input": "You don't need a very fancy setup. ",
-  "translatedText": "",
+  "translatedText": "โดยไม่จำเป็นต้องมีชุดอุปกรณ์ที่สวยหรู",
   "model": "nmt",
   "time_range": [
    401.58,
@@ -532,7 +532,7 @@
  },
  {
   "input": "Start by creating a pretty dense mixture of sugar water, and then you'll need to get your hands on some polarizing filters so that you can pass light first through one of those filters, then through the sugar water, and then through a second filter. ",
-  "translatedText": "",
+  "translatedText": "โดยเริ่มจากการทำสารละลายน้ำตาลที่ค่อนข้างหนาแน่น แล้วก็หาแผ่นกรอง polarizer มาสักแผ่น เพื่อให้แสงของเราผ่านแผ่นกรองแผ่นแรกก่อน ตามด้วยน้ำตาลที่ละลายไว้ และตามด้วยแผ่นกรองอีกแผ่น",
   "model": "nmt",
   "time_range": [
    403.4,
@@ -541,7 +541,7 @@
  },
  {
   "input": "And if you look at this whole setup from the top, as you rotate one of those filters, you'll see different colors. ",
-  "translatedText": "",
+  "translatedText": "และถ้ามองอุปกรณ์ที่เซ็ตไว้จากด้านบน เมื่อคุณหมุนแผ่นกรองแผ่นหนึ่ง คุณจะเห็นสีที่เปลี่ยนไป",
   "model": "nmt",
   "time_range": [
    415.14,
