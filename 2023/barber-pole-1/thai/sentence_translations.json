@@ -1,7 +1,7 @@
 [
  {
   "input": "The setup here starts with a cylinder full of sugar water, basically, and we're about to shine some white light into it, but before it gets there, it passes through a linearly polarizing filter. ",
-  "translatedText": "",
+  "translatedText": "จากเซ็ตของอุปกรณ์ที่เห็นอยู่นี้เป็นกระบอกไสที่บรรจุน้ำตาลละลายน้ำไว้ และเรากำลังจะฉายแสงสีขาวใส่มัน โดยผ่านตัวกรองแสงแบบ linearly polarizing",
   "model": "nmt",
   "time_range": [
    0.0,
@@ -10,7 +10,7 @@
  },
  {
   "input": "And what that means, basically, is that if you look at all of the light waves beyond the point of that filter, those waves are only going to be wiggling in one direction, say up and down. ",
-  "translatedText": "",
+  "translatedText": "นั่นหมายถึง ถ้าเรามองเห็นคลื่นแสงที่ออกจากตัวกรอง คลื่นแสงจะแกว่งในทิศทางเดียวเท่านั้น เช่นเป็นการแกว่งแบบแนวตั้ง ขึ้นและลง",
   "model": "nmt",
   "time_range": [
    10.82,
@@ -19,7 +19,7 @@
  },
  {
   "input": "And don't worry, in a few minutes we're going to go into much more detail about what specifically is wiggling and what the significance of that wiggling direction is, but skipping to the punchline first, the demo also includes a second linearly polarizing filter coming out the other end, and I want you to predict what we're going to see once we turn the light on. ",
-  "translatedText": "",
+  "translatedText": "ไม่ต้องกังวลไป เดี๋ยวเราจะกลับมาพูดถึงรายละเอียดอีกทีว่าสิ่งที่แกว่งในคลื่นนั้นคืออะไร และทิศทางการแกว่งนั้นมีความสำคัญยังไง แต่ตอนนี้ขอเข้าเรื่องก่อนเลย จะเห็นว่าเซ็ตอัพนี้ยังมีตัวกรอง polarization อีกชิ้นที่ปลายอีกด้านของกระบอกนี้ และลองทายดูว่าเราจะเห็นอะไรหลังจากที่ฉายแสงใส่มัน",
   "model": "nmt",
   "time_range": [
    20.78,
@@ -28,7 +28,7 @@
  },
  {
   "input": "Now I suspect some viewers might already have a little bit of a sense for what's going on, because a few years ago, Steve Mould made a really excellent video about this phenomenon of shining polarized light through sugar water. ",
-  "translatedText": "โดยพื้นฐานแล้วการจัดวางตรงนี้เริ่มต้นด้วยทรงกระบอกที่เต็มไปด้วยน้ำตาล และเรากำลังจะฉายแสงสีขาวเข้าไปในนั้น แต่ก่อนที่มันจะไปถึงตรงนั้น มันจะผ่านฟิลเตอร์โพลาไรซ์เชิงเส้น และความหมายโดยพื้นฐานก็คือ ถ้าคุณดูคลื่นแสงทั้งหมดที่อยู่เลยจุดกรองนั้น คลื่นเหล่านั้นจะกระดิกไปในทิศทางเดียวเท่านั้น พูดขึ้นและลง และอย่ากังวล ในอีกไม่กี่นาทีเราจะลงรายละเอียดมากขึ้นเกี่ยวกับสิ่งที่เป็นการส่ายไปมาโดยเฉพาะ และความสำคัญของทิศทางการส่ายนั้นคืออะไร แต่เมื่อข้ามไปที่เจาะลึกก่อน การสาธิตยังรวมโพลาไรซ์เชิงเส้นที่สองด้วย ฟิลเตอร์ออกมาอีกด้านหนึ่ง และผมอยากให้คุณคาดเดาสิ่งที่เราจะได้เห็นเมื่อเราเปิดไฟ ตอนนี้ ฉันสงสัยว่าผู้ชมบางคนคงเข้าใจสิ่งที่เกิดขึ้นแล้ว เพราะไม่กี่ปีก่อน สตีฟ โมลด์ได้สร้างวิดีโอที่ยอดเยี่ยมมาก เกี่ยวกับปรากฏการณ์ของการฉายแสงโพลาไรซ์ผ่านน้ำที่มีน้ำตาล มันทำได้ดีมาก ซึ่งก็ไม่แปลกใจเลยเพราะทุกสิ่งที่สตีฟทำก็เป็นเช่นนั้น แต่ถึงแม้คุณจะดูเรื่องนี้แล้ว แต่มันก็เป็นปรากฏการณ์ที่สมบูรณ์พอที่จะยังมีอะไรให้อธิบายอีกมาก ที่จริงแล้ว แม้ว่าคุณจะสร้างวิดีโอนั้นขึ้นมา แต่นี่ก็เป็นปรากฏการณ์ที่สมบูรณ์พอที่จะต้องอธิบายอีกมาก ฉันอยากรู้ว่า สตีฟ เมื่อคุณสร้างวิดีโอนั้น คุณบังเอิญได้เห็นวิวด้านข้างของกระจกที่ดีหรือเปล่า บางทีอาจเป็นตอนที่ไฟที่เหลือในห้องดับลงหรืออะไรทำนองนั้น เลขที่ ไม่ ฉันไม่ได้คิดถึงมุมมองด้านข้าง ยอดเยี่ยม. ",
+  "translatedText": "เดาว่าผู้ชมบางคนอาจจะเริ่มมองออกว่ากำลังจะเกิดอะไรขึ้น เพราะหลายปีก่อน Steve Mould ได้เคยทำวิดิโอเกี่ยวกับปรากฏการณ์ฉายแสง polarized ใส่น้ำตาลละลายน้ำมาแล้ว",
   "model": "nmt",
   "time_range": [
    39.04,
@@ -37,7 +37,7 @@
  },
  {
   "input": "It was really well done, which is no surprise because everything Steve makes is, but even if you watched that, this is a rich enough phenomenon that there's still more to be explained. ",
-  "translatedText": "",
+  "translatedText": "และเขาทำออกมาได้ดีมาก ซึ่งไม่แปลกใจเพราะ Steve เขาทำทุกอย่างออกมาดีอยู่แล้ว แต่ถึงคุณจะเคยดูคลิปนั้นแล้ว ปรากฏการณ์นี้ก็ยังมีรายละเอียดมากที่ต้องอธิบาย",
   "model": "nmt",
   "time_range": [
    50.5,
@@ -46,7 +46,7 @@
  },
  {
   "input": "In fact, even if you made that video, this is a rich enough phenomenon that there's more to be explained. ",
-  "translatedText": "",
+  "translatedText": "อันที่จริง แม้คุณจะเป็นคนทำวิดิโอนั่นขึ้นมาก็ตาม ปรากฏการณ์นี้ก็ยังมีรายละเอียดมากมายที่ยังต้องอธิบาย",
   "model": "nmt",
   "time_range": [
    59.22,
@@ -55,7 +55,7 @@
  },
  {
   "input": "I'm curious, Steve, when you made that video, did you happen to get a good view of the side of the glass, probably when the rest of the lights in the room were off or something like that? ",
-  "translatedText": "",
+  "translatedText": "Steve ผมอยากรู้ว่าตอนที่คุณทำวิดิโอนั้น คุณได้เก็บภาพด้านข้างของกระบอกนั้นไว้ไหม อาจจะเป็นตอนที่ปิดไฟห้องทั้งหมด หรืออะไรทำนองนั้น?",
   "model": "nmt",
   "time_range": [
    64.82,
@@ -64,7 +64,7 @@
  },
  {
   "input": "No. ",
-  "translatedText": "",
+  "translatedText": "ไม่",
   "model": "nmt",
   "time_range": [
    73.92,
@@ -73,7 +73,7 @@
  },
  {
   "input": "No, I didn't think about the side view. ",
-  "translatedText": "",
+  "translatedText": "ผมไม่ได้นึกถึงมุมมองจากด้านข้างเลย",
   "model": "nmt",
   "time_range": [
    75.1,
@@ -82,7 +82,7 @@
  },
  {
   "input": "Great. ",
-  "translatedText": "",
+  "translatedText": "โอเค",
   "model": "nmt",
   "time_range": [
    77.76,
@@ -91,7 +91,7 @@
  },
  {
   "input": "So given the setup that we're looking at now, once we turn off the room lights and turn on the lamp, I'm curious if you have a prediction for what you might see. ",
-  "translatedText": "",
+  "translatedText": "ถ้างั้นดูจากอุปกรณ์ที่เราเซ็ตไว้ตอนนี้ ถ้าเราปิดไฟห้อง และฉายไฟลงไป คุณเคยคิดมั้ยว่าคุณจะได้เห็นอะไร",
   "model": "nmt",
   "time_range": [
    78.22,
@@ -100,7 +100,7 @@
  },
  {
   "input": "Well, there will be some scattering, I suppose. ",
-  "translatedText": "",
+  "translatedText": "อืม ผมคิดว่ามันจะต้องมีการกระจายนะ",
   "model": "nmt",
   "time_range": [
    86.76,
@@ -109,7 +109,7 @@
  },
  {
   "input": "But then if we're just looking at the tube, we're not applying any kind of filter to just looking directly at the tube. ",
-  "translatedText": "",
+  "translatedText": "แต่ถ้าเรามองไปที่กระบอก แบบไม่ได้ผ่านตัวกรอง แค่มองตัวกระบอกแบบตรง ๆ",
   "model": "nmt",
   "time_range": [
    90.62,
@@ -118,7 +118,7 @@
  },
  {
   "input": "So, I mean, my instinct is nothing will happen. ",
-  "translatedText": "เมื่อพิจารณาจากการตั้งค่าที่เรากำลังดูอยู่ตอนนี้ เมื่อเราปิดไฟในห้องและเปิดโคมไฟแล้ว ฉันสงสัยว่าคุณมีการทำนายสิ่งที่คุณจะเห็นหรือไม่ ฉันคิดว่าคงจะมีกระจัดกระจายบ้าง แต่ถ้าเราดูแค่หลอด เราไม่ได้ใช้ตัวกรองใดๆ เพื่อดูแค่หลอดโดยตรง ฉันหมายถึงสัญชาตญาณของฉันคือไม่มีอะไรเกิดขึ้น นั่นคงจะเป็นการเดาของฉันเหมือนกัน แต่ให้ฉันแสดงให้คุณดูว่าเมื่อเราปิดไฟห้องแล้วเปิดโคมไฟจะเป็นอย่างไร แล้วถ้าคุณหมุนโพลาไรเซอร์เริ่มแรก คุณจะมองเห็นแถบเหล่านั้น แถบแนวทแยงดูเหมือนจะเดินขึ้นไปบนท่อ โอ้ว้าว. ",
+  "translatedText": "อืม ผมว่า ไม่น่าจะมีอะไร ไม่น่าจะมีอะไรเกิดขึ้นนะ",
   "model": "nmt",
   "time_range": [
    97.76,
@@ -127,7 +127,7 @@
  },
  {
   "input": "That would have been my guess too. ",
-  "translatedText": "",
+  "translatedText": "ผมก็คิดแบบนั้นเหมือนกัน",
   "model": "nmt",
   "time_range": [
    101.84,
@@ -136,7 +136,7 @@
  },
  {
   "input": "But let me just show you what it looks like when we turn off the room lights and we turn on the lamp. ",
-  "translatedText": "",
+  "translatedText": "แต่เดี๋ยวผมโชว์ให้ดูว่ามันเป็นยังไง ถ้าเราปิดไฟห้องและฉายไฟ",
   "model": "nmt",
   "time_range": [
    103.5,
@@ -145,7 +145,7 @@
  },
  {
   "input": "And then if you turn the initial polarizer, you can kind of see those stripes, those diagonal stripes seem to walk up the tube. ",
-  "translatedText": "",
+  "translatedText": "และพอเราหมุนแผ่นกรอง polarizer แผนแรก คุณจะเห็นว่าแถบสีที่เป็นแนวทแยงพวกนั้นค่อย ๆ เดินไปที่ปลายกระบอก",
   "model": "nmt",
   "time_range": [
    109.24,
@@ -154,7 +154,7 @@
  },
  {
   "input": "Oh, wow. ",
-  "translatedText": "",
+  "translatedText": "โอ้ ว้าว",
   "model": "nmt",
   "time_range": [
    116.44,
@@ -163,7 +163,7 @@
  },
  {
   "input": "But why diagonal? ",
-  "translatedText": "แต่ทำไมถึงเป็นแนวทแยง? ",
+  "translatedText": "แต่ทำไมถึงเป็นแนวทแยงล่ะ ?",
   "model": "nmt",
   "time_range": [
    118.32,
@@ -172,7 +172,7 @@
  },
  {
   "input": "Exactly. ",
-  "translatedText": "อย่างแน่นอน. ",
+  "translatedText": "นั่นแหละ",
   "model": "nmt",
   "time_range": [
    119.84,
@@ -181,7 +181,7 @@
  },
  {
   "input": "Why diagonal? ",
-  "translatedText": "ทำไมต้องเป็นเส้นทแยงมุม? ",
+  "translatedText": "ทำไมมันถึงเป็นแนวทแยง ?",
   "model": "nmt",
   "time_range": [
    120.5,
@@ -190,7 +190,7 @@
  },
  {
   "input": "But why anything? ",
-  "translatedText": "แต่ทำไมมีอะไร? ",
+  "translatedText": "แต่ทำไมอะไร?",
   "model": "nmt",
   "time_range": [
    121.48,
@@ -199,7 +199,7 @@
  },
  {
   "input": "I mean, why anything? ",
-  "translatedText": "ฉันหมายความว่าทำไมมีอะไร? ",
+  "translatedText": "ผมหมายถึง ทำไมมันต้องมีอะไร?",
   "model": "nmt",
   "time_range": [
    122.48,
@@ -208,7 +208,7 @@
  },
  {
   "input": "Something about the interaction with sugar water separates the light out into these different bands of color. ",
-  "translatedText": "",
+  "translatedText": "มันมีอะไรบางอย่างในน้ำตาลละลาย ที่ทำให้แสงสีขาวแยกออกเป็นแถบหลากสี",
   "model": "nmt",
   "time_range": [
    125.2,
@@ -217,7 +217,7 @@
  },
  {
   "input": "But it does so in this really intriguing way, where the colors appear to form these spiral helixes down the tube. ",
-  "translatedText": "",
+  "translatedText": "ซึ่งมันน่าทึ่งมาก ที่สีพวกนี้แยกออกมาเป็นเกลียวตามแนวกระบอก",
   "model": "nmt",
   "time_range": [
    130.84,
@@ -226,7 +226,7 @@
  },
  {
   "input": "And the other thing I want to draw your attention to is the color that's coming out of the tube after it passes through that second filter. ",
-  "translatedText": "",
+  "translatedText": "และอีกอย่างที่ผมอยากจะให้คุณสังเกตคือ สีของแสงที่ออกจากแผ่นกรองชิ้นที่สอง",
   "model": "nmt",
   "time_range": [
    139.08,
@@ -235,7 +235,7 @@
  },
  {
   "input": "As we rotate the first filter, you rotate through a family of distinct hues. ",
-  "translatedText": "",
+  "translatedText": "เมื่อเราหมุนแผ่นกรองชิ้นแรก มันทำให้เกิดเฉดสีที่แตกต่างกัน",
   "model": "nmt",
   "time_range": [
    147.1,
@@ -244,7 +244,7 @@
  },
  {
   "input": "And it doesn't have to be the first filter. ",
-  "translatedText": "",
+  "translatedText": "และไม่ใช่แค่แผ่นกรองชิ้นแรก",
   "model": "nmt",
   "time_range": [
    152.2,
@@ -253,7 +253,7 @@
  },
  {
   "input": "If you rotate that second filter, you also rotate through these various different colors. ",
-  "translatedText": "",
+  "translatedText": "ถ้าเราหมุนแผ่นกรองชิ้่นที่สอง ก็ทำให้เกิดเฉดสีต่าง ๆ เหมือกนัน",
   "model": "nmt",
   "time_range": [
    153.68,
@@ -262,7 +262,7 @@
  },
  {
   "input": "That's Quinn, by the way, who kindly set up this whole demo. ",
-  "translatedText": "",
+  "translatedText": "นี่คือ Quinn คนที่บรรจงเตรียมอุปกรณ์ทั้งหมดนี้ให้เรา",
   "model": "nmt",
   "time_range": [
    158.8,
@@ -271,7 +271,7 @@
  },
  {
   "input": "And what I love about this setup is that if you want to really understand what you're looking at, with that deep to your bones satisfying sense of what's going on, it requires having very solid intuitions for a number of different fundamental concepts about light, like polarization, how scattering works, and how an index of refraction works. ",
-  "translatedText": "ปฏิกิริยาบางอย่างกับน้ำที่มีน้ำตาลจะแยกแสงออกเป็นแถบสีต่างๆ เหล่านี้ แต่มันเกิดขึ้นในลักษณะที่น่าสนใจจริงๆ โดยที่สีต่างๆ ดูเหมือนจะก่อตัวเป็นเกลียวก้นหอยลงไปตามท่อ และอีกอย่างที่ฉันต้องการดึงดูดความสนใจของคุณคือสีที่ออกมาจากหลอดหลังจากที่มันผ่านฟิลเตอร์ที่สองนั้น เมื่อเราหมุนฟิลเตอร์แรก คุณจะหมุนไปตามกลุ่มเฉดสีที่แตกต่างกัน และไม่จำเป็นต้องเป็นตัวกรองตัวแรก หากคุณหมุนฟิลเตอร์ตัวที่สอง คุณจะหมุนไปตามสีต่างๆ เหล่านี้ด้วย นั่นคือ Quinn ผู้ที่กรุณาจัดเตรียมการสาธิตทั้งหมดนี้ และสิ่งที่ฉันชอบเกี่ยวกับการจัดฉากนี้ก็คือ หากคุณต้องการเข้าใจสิ่งที่คุณกำลังดูอยู่จริงๆ โดยที่ส่วนลึกของจิตใจคุณนั้นน่าพอใจต่อสิ่งที่เกิดขึ้น คุณจะต้องมีสัญชาตญาณที่ชัดเจนมาก สำหรับแนวคิดพื้นฐานต่างๆ เกี่ยวกับแสง เช่น โพลาไรซ์ วิธีการทำงานของการกระเจิง และดัชนีการหักเหของแสง เพื่อเริ่มต้นสิ่งต่างๆ ฉันจะแสดงโครงสร้างโดยรวมเพื่ออธิบายสิ่งที่เกิดขึ้นที่นี่ และระหว่างทางก็บันทึกคำถามต่างๆที่เรายังต้องตอบ หลักฐานพื้นฐานของสิ่งทั้งหมดคือการคิดว่าแสงโพลาไรซ์เป็นคลื่นที่แพร่กระจายซึ่งกระดิกไปในทิศทางเดียว และฉันคิดว่าคำถามหมายเลข 0 มีไว้สำหรับเราให้ชัดเจนว่าอะไรกันแน่ที่กระดิก เลื่อนไปก่อน เราจะบอกว่าถ้าเราคิดว่ามันแพร่กระจายไปในทิศทางเดียว เช่น ตามแกน x การแกว่งจะเกิดขึ้นในแนวตั้งฉากกับอันนั้น พูดในทิศทาง z สิ่งที่จะเกิดขึ้นเมื่อมันไหลผ่านท่อน้ำที่มีน้ำตาลนี้ ก็คือทิศทางที่กระดิกนั้นบิดเบี้ยว คำถามสำคัญข้อแรกคือทำไม? ",
+  "translatedText": "และสิ่งที่ผมชอบมากในอุปกรณ์เซ็ตนี้ คือถ้าคุณอยากจะเข้าใจสิ่งที่คุณกำลังมองอยู่อย่างลึกซึ้งชัดเจน ว่ามันกำลังเกิดอะไรขึ้น คุณต้องมีความเข้าใจแนวคิดพื้นฐานต่าง ๆ เกี่ยวกับแสง เช่น การ polarize ของแสง การกระจายของแสง และเข้าใจดัชนีการหักเหของแสงด้วย",
   "model": "nmt",
   "time_range": [
    162.32,
